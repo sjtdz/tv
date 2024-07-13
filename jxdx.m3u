@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://220.175.144.109:9000/udp/239.252.220.63:5140
 #EXTINF:-1,tvg-id="江西二套" tvg-name="江西二套" tvg-logo="https://epg.112114.xyz/logo/江西二套.png" group-title="江西",江西二套
-http://gzly.hkychina.com:6001/udp/239.252.220.238:5140
+http://220.175.144.109:9000/udp/239.252.220.238:5140
 #EXTINF:-1,tvg-id="江西三套" tvg-name="江西三套" tvg-logo="https://epg.112114.xyz/logo/江西三套.png" group-title="江西",江西三套
 http://gzly.hkychina.com:6001/udp/239.252.219.173:5140
 #EXTINF:-1,tvg-id="江西四套" tvg-name="江西四套" tvg-logo="https://epg.112114.xyz/logo/江西四套.png" group-title="江西",江西四套
