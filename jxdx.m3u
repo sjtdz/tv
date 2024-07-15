@@ -44,13 +44,13 @@ http://220.175.144.109:9000 /udp/239.252.220.196:5140
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
 http://220.175.144.109:9000 /udp/239.252.220.186:5140
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-http://220.175.144.109:9000 /udp/239.252.220.91:5140
+http://220.175.144.109:9000/udp/239.252.220.91:5140
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
 http://220.175.144.109:9000 /udp/239.252.219.78:5140
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-http://220.175.144.109:9000 /udp/239.252.220.187:5140
+http://220.175.144.109:9000/udp/239.252.220.187:5140
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-http://220.175.144.109:9000 /udp/239.252.219.139:5140
+http://220.175.144.109:9000/udp/239.252.219.139:5140
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
 http://220.175.144.109:9000/udp/239.252.220.92:5140
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
