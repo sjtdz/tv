@@ -6,23 +6,23 @@ http://220.175.144.109:9000/udp/239.252.220.238:5140
 #EXTINF:-1,tvg-id="江西三套" tvg-name="江西三套" tvg-logo="https://epg.112114.xyz/logo/江西三套.png" group-title="江西",江西三套
 http://220.175.144.109:9000/udp/239.252.219.173:5140
 #EXTINF:-1,tvg-id="江西四套" tvg-name="江西四套" tvg-logo="https://epg.112114.xyz/logo/江西四套.png" group-title="江西",江西四套
-
+http://220.175.144.109:9000/udp/239.252.220.101:5140
 #EXTINF:-1,tvg-id="江西五套" tvg-name="江西五套" tvg-logo="https://epg.112114.xyz/logo/江西五套.png" group-title="江西",江西五套
-
+http://220.175.144.109:9000/udp/239.252.220.102:5140
 #EXTINF:-1,tvg-id="江西六套" tvg-name="江西六套" tvg-logo="https://epg.112114.xyz/logo/江西六套.png" group-title="江西",江西六套
-
+http://220.175.144.109:9000/udp/239.252.219.113:5140
 #EXTINF:-1,tvg-id="江西七套" tvg-name="江西七套" tvg-logo="https://epg.112114.xyz/logo/江西七套.png" group-title="江西",江西七套
-
+http://220.175.144.109:9000/udp/239.252.220.100:5140
 #EXTINF:-1,tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://epg.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
-
+http://220.175.144.109:9000/udp/239.252.219.115:5140
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-
+http://220.175.144.109:9000/udp/239.252.219.200:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-
+http://220.175.144.109:9000/udp/239.252.220.183:5140
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-
+http://220.175.144.109:9000/udp/239.252.219.252:5140
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-
+http://220.175.144.109:9000/udp/239.252.220.193:5140
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
 http://220.175.144.109:9000/udp/239.252.220.184:5140​​
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
