@@ -26,9 +26,9 @@ http://36.46.98.108:8021/rtp/239.112.205.213:5140
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
 http://36.46.98.108:8021/rtp/239.112.205.88:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
-120.55.49.231:3095/rtp/233.50.201.246:5140
+http://36.46.98.108:8021/rtp/239.111.205.53:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
-183.141.217.69:9999/rtp/233.50.201.246:5140
+http://36.46.98.108:8021/rtp/233.50.201.246:5140
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://36.46.98.108:8021/rtp/239.112.205.91:5140
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
